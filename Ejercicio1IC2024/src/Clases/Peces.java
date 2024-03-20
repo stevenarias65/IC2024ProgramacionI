@@ -35,6 +35,6 @@ public class Peces extends Animales{
         this.color = color;
     }
     
-    
-    
+
+   
 }
