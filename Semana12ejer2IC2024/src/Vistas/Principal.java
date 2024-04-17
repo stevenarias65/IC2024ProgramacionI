@@ -22,6 +22,7 @@ public class Principal extends javax.swing.JFrame {
 
     
     public void verBoton(){
+        
         if (IniciarComponentes.rol.equals("1")) {
             btnAdmin.setVisible(true);
         }else{
